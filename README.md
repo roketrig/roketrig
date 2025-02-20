@@ -5,10 +5,11 @@
   
 <p align="center" class="heading-element" dir="auto">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roketrig"/>
+</p>
+<p align="center" class="heading-element" dir="auto">
   - 🌱 I’m currently learning React JS v18 
   - 📫 How to reach me: b1m.ksr@yahoo.com
 </p>
-
 
 
 
