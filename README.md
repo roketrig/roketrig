@@ -1,4 +1,7 @@
-## Hey 
+
+<p align="center" class="heading-element" dir="auto">
+  ## Hey I'm roketrig
+</p>
 <h3 align="center" class="heading-element" dir="auto">Im just a guy who loves playing games and writing code.</h3>
 
 
