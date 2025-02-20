@@ -1,12 +1,15 @@
 ## Hey 
 <h3 align="center" class="heading-element" dir="auto">Im just a guy who loves playing games and writing code.</h3>
 
-- 🌱 I’m currently learning React JS v18 
-- 📫 How to reach me: b1m.ksr@yahoo.com
+
   
+<p align="center" class="heading-element" dir="auto">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roketrig"/>
+  - 🌱 I’m currently learning React JS v18 
+  - 📫 How to reach me: b1m.ksr@yahoo.com
+</p>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roketrig"/>
 
 
 <h4 align="center" class="heading-element" dir="auto">Languages and Tools</h4>
