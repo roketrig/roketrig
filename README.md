@@ -2,7 +2,7 @@
 <h1 align="center" class="heading-element" dir="auto">
   ## Hey I'm roketrig
 </h1>
-<h3 align="center" class="heading-element" dir="auto">I'm a self-taught passionate FrontEnd/Game developer from Turkey</h3>
+<h3 align="center" class="heading-element" dir="auto">I'm a self-taught passionate FrontEnd & Game developer from Turkey</h3>
 
 
   
