@@ -20,7 +20,6 @@
 <p align="center" class="heading-element" dir="auto"><img height="50" width="50" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" />
   <img height="50" width="50" src="https://ganeshbharti.gallerycdn.vsassets.io/extensions/ganeshbharti/react-sinppets/0.0.1/1707235564913/Microsoft.VisualStudio.Services.Icons.Default" />
   <img height="50" width="50" src="https://www.ravbug.com/img/unityhubnative.png" />
-  <img height="50" width="50" src="https://i.pinimg.com/736x/f0/a1/2d/f0a12de0f507e6cc41760e5915e7ffb8.jpg" />
   <img height="50" width="50" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" />
   <img height="50" width="50" src="https://icons.iconarchive.com/icons/cornmanthe3rd/metronome/512/Other-html-5-icon.png" />
   <img height="50" width="50" src="https://icons.iconarchive.com/icons/martz90/hex/512/css-3-icon.png" />
