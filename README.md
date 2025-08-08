@@ -17,6 +17,8 @@
 
 
 <h4 align="center" class="heading-element" dir="auto">Languages and Tools</h4>
+
+<img height="50" width="50" src="https://miro.medium.com/v2/resize:fit:1200/1*ge2nFugsUG-8JW0niAioVQ.png" />
   <img height="50" width="50" src="https://ganeshbharti.gallerycdn.vsassets.io/extensions/ganeshbharti/react-sinppets/0.0.1/1707235564913/Microsoft.VisualStudio.Services.Icons.Default" />
   <img height="50" width="50" src="https://www.ravbug.com/img/unityhubnative.png" />
   <img height="50" width="50" src="https://i.pinimg.com/736x/f0/a1/2d/f0a12de0f507e6cc41760e5915e7ffb8.jpg" />
