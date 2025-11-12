@@ -4,7 +4,9 @@
 </h1>
 <h3 align="center" class="heading-element" dir="auto">I'm a self-taught passionate FrontEnd & Game developer from Turkey</h3>
 
-
+<p align="center" class="heading-element" dir="auto">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roketrig"/>
+</p>
   
 
 <p align="center" class="heading-element" dir="auto">
